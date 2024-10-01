@@ -1,5 +1,4 @@
 # Overview  
-![Στιγμιότυπο οθόνης 2024-09-08 193151](https://github.com/user-attachments/assets/0d31d0d2-8ea3-4dca-9212-a531391a1e80)
 This project is part of **Data Mining & Machine Learning** elective course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8). 
 
 ## Dataset
@@ -45,7 +44,7 @@ This project is part of **Data Mining & Machine Learning** elective course in Co
     3. **Gaussian Mixture (Non-Hierarchical Clustering)** 
    
    Finally, for the evaluation of the efficiency of clustering we used **Silhouette Score** metric.
-  
+![Στιγμιότυπο οθόνης 2024-09-08 193151](https://github.com/user-attachments/assets/0d31d0d2-8ea3-4dca-9212-a531391a1e80)
 Further details of our implementations can be found in the technical report in the **Documentation** folder. 
 
 ## Programming Tools and Environment 
