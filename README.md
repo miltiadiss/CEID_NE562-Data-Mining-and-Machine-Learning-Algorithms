@@ -1,7 +1,9 @@
 # Overview  
 ![Στιγμιότυπο οθόνης 2024-09-08 193151](https://github.com/user-attachments/assets/0d31d0d2-8ea3-4dca-9212-a531391a1e80)
 This project is part of **Data Mining & Machine Learning** elective course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8). 
-* **Dataset**: [https://archive.ics.uci.edu/dataset/779/harth](URL)
+
+## Dataset
+[https://archive.ics.uci.edu/dataset/779/harth](URL)
 
   The Human Activity Recognition Trondheim (HARTH) dataset contains recordings of 22 participants wearing two 3-axial Axivity AX3 accelerometers for around 2 hours in a free-living setting. One sensor was attached to the right front thigh and the other to the lower back. The provided sampling rate is 50Hz. 
 
@@ -29,7 +31,7 @@ This project is part of **Data Mining & Machine Learning** elective course in Co
     130: **cycling (sit, inactive)**
     140: **cycling (stand, inactive)**
 
-* **Goals**:
+## Goals
 1. Statistic study of the features of the dataset. Our main goal is to reveal probable "hidden" dependancies between the data.
 
 2. Training of 3 types of classifiers that predict the activity of every participant for every timestamp of the testing set based on the N previous values (lags) of the accelometers. It is also noted that the original dataset is split into training set (80% of the original dataset) and testing set (20% of the original dataset). Our main goal is to make a close approximation for every case, not to make perfectly accurate predictions.
@@ -43,7 +45,8 @@ This project is part of **Data Mining & Machine Learning** elective course in Co
     3. **Gaussian Mixture (Non-Hierarchical Clustering)** 
    
    Finally, for the evaluation of the efficiency of clustering we used **Silhouette Score** metric.
-
-* **Programming Language and Environment**: Python, Jupyter Notebook.
   
 Further details of our implementations can be found in the technical report in the **Documentation** folder. 
+
+## Programming Tools and Environment 
+Python, Jupyter Notebook
