@@ -1,5 +1,5 @@
 # Overview  
-This project is part of **Data Mining & Machine Learning** elective course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8). 
+This project is part of **Data Mining & Machine Learning Algorithms** elective course in Computer Engineering & Informatics Department of University of Patras for Spring Semester 2024 (Semester 8). 
 
 ## Dataset
 [https://archive.ics.uci.edu/dataset/779/harth](URL)
